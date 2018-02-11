@@ -7,7 +7,7 @@ Once devfee mining is triggered it will mine to your address instead of develope
 
 # Download Claymore 11.0 Ethereum Miner No DevFee Below
 
-Direct download link: https://github.com/d3z00r/claymore10.3nofee/releases/download/v10.3/Claymore.s.Dual.Ethereum.Decred_Siacoin_Lbry_Pascal.AMD.NVIDIA.GPU.Miner.v10.3.rar
+Direct download link: https://github.com/d3z00r/Claymore-11.0-No-DevFee-DevFee-Removed/releases/tag/11
 
 FAQ
     Does this work for future releases of Claymore ?
