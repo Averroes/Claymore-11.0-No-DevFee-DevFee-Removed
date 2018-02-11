@@ -9,6 +9,8 @@ Once devfee mining is triggered it will mine to your address instead of develope
 
 Direct download link: https://github.com/d3z00r/Claymore-11.0-No-DevFee-DevFee-Removed/releases/tag/11
 
+https://github.com/d3z00r/Claymore-11.0-No-DevFee-DevFee-Removed/releases/download/11/Claymore.s.Dual.Ethereum.Decred_Siacoin_Lbry_Pascal.AMD.NVIDIA.GPU.Miner.v11.0.rar
+
 FAQ
     Does this work for future releases of Claymore ?
 
